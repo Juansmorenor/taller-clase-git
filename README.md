@@ -9,3 +9,6 @@ Josué
 ## Tecnologías 
 git 
 Vscode
+
+# Estado del proyecto
+Proyecto en estado de desarrollo - v1.0
