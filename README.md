@@ -9,3 +9,6 @@ Josué
 ## Tecnologías 
 git 
 Vscode
+
+# Estado de Proyecto
+Actividad Git realizada 
