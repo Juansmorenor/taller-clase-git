@@ -5,3 +5,7 @@ Taller de Control de Versiones - Git
 ## Integrantes 
 Juan
 Josué
+
+## Tecnologías 
+git 
+Vscode
